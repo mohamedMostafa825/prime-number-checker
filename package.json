@@ -1,0 +1,21 @@
+{
+  "name": "prime-number-checker-825",
+  "version": "1.0.0",
+  "description": "This package is used to determine if a number is prime.",
+  "keywords": [
+    "prime",
+    "prime-number",
+    "primality",
+    "primality-test",
+    "math",
+    "is-prime",
+    "numbers"
+  ],
+  "license": "MIT",
+  "author": "mohamed825",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
